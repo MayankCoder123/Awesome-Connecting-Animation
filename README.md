@@ -10,11 +10,11 @@ Simple, Modern & Awesome Connecting Animation
 
 ## Preview At
 
-- [Watch Preview](https://mayankcoder123.github.io/Awesome_Connecting_Animation/)
+- [Watch Preview](https://mayankcoder123.github.io/Awesome-Connecting-Animation/)
 
 ## Release Notes
 
-- [v1.0.0](https://github.com/MayankCoder123/Awesome_Connecting_Animation/releases/tag/v1.0.0)
+- [v1.0.0](https://github.com/MayankCoder123/Awesome-Connecting-Animation/releases/tag/v1.0.0)
 
 ## Author
 
